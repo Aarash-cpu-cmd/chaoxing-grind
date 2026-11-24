@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+ck.json
+cookies*.json
+works/
+grind_done.json
+work_done.json
+jobs.json
+courses.json

@@ -1,0 +1,5 @@
+requests>=2.31
+ddddocr>=1.4
+websockets>=12
+fonttools>=4.40
+Pillow>=10
